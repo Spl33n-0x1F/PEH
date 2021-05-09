@@ -1470,10 +1470,10 @@ input, select, textarea {
 		}
 
 	.button-large {
-		background-image: -moz-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -webkit-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -ms-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: linear-gradient(top, #ed391b, #ce1a00);
+		background-image: -moz-linear-gradient(top, #1baeed, #1b25ed);
+		background-image: -webkit-linear-gradient(top, #1baeed, #1b25ed);
+		background-image: -ms-linear-gradient(top, #1baeed, #1b25ed);
+		background-image: linear-gradient(top, #1baeed, #1b25ed);
 		display: inline-block;
 		background-color: #ed391b;
 		color: #fff;
@@ -1530,7 +1530,7 @@ input, select, textarea {
 		}
 
 			#header h1 a {
-				color: #fff;
+				color: #0f53f2;
 				text-decoration: none;
 			}
 
